@@ -1,0 +1,20 @@
+Prueba 2 github
+
+
+class jugadores:
+    j1 = "meci"
+    j2 = "elbicho"
+
+print(jugadores.j1)
+
+
+class jugadoresB:
+    j3 = "marcelo"
+    j1 = "elpepe"
+
+print(jugadoresB.j1) #jugadoresB.j1 indica que solo 
+me interesa el j1 de jugadoresB
+
+
+
+
